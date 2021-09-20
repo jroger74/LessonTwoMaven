@@ -12,7 +12,7 @@ public class LessonTwoMaven {
                 printRangeSum (firstNum = 8,secondNum = 11);
                 printPositiveOrNegative (oneNum = 2);
                 retrievePositiveOrNegative(a = -1);
-                printName(b = 5, nameName = "Tirion");
+                printName(b = 6, nameName = "Tirion");
 
 
         }
